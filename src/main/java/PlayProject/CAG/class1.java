@@ -6,5 +6,5 @@ public class class1 {
 	int a = 1;  // Added a comment 11/12 CAG
 	int b = 2; // Added a commennt 12/12 CAG
 	int c = 3;
-	int d = 4;
+	int d = 4;// Added Comment in web checked in so conficly with  eclipse edit 12/12 CAG
 }
